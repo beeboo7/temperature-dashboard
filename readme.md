@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Run the app
 
 ```bash
-python app.py
+python TemperatueData.py
 ```
 
 Then open [http://127.0.0.1:8050](http://127.0.0.1:8050) in your browser. Press `Ctrl + C` in the terminal to stop it.
